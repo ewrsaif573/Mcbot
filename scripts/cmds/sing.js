@@ -10,7 +10,7 @@ module.exports = {
   config: {
     name: "sing",
     version: "1.1.5",
-    aliases: [ "music", "sing", "song", "audio"],
+    aliases: ["sing",],
     author: "dipto",
     countDown: 5,
     role: 0,
